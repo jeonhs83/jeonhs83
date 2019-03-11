@@ -49,4 +49,10 @@ zipbogo.net###content > div:last-child > table:nth-child(11) > tbody > tr > td >
 zipbogo.net###content > div:last-child > table:nth-child(11) > tbody > tr > td > table.board01:nth-child(9) > tbody.num:last-child > tr:nth-child(7)
 zipbogo.net###content > div:last-child > table:nth-child(11) > tbody > tr > td > table.board01:nth-child(9) > tbody.num:last-child > tr:nth-child(8) > td
 daum.net###mArticle > div.wing_tmp:last-child
-naver.com###shop_cast
+naver.com###shp_cst
+daum.net###mArticle > div.wing_tmp:last-child
+torrentmap.com###ad_board
+torrentmap.com###container_wr > div:nth-child(5)
+torrentmap.com###hd_pops_1
+cooln.kr###logo_top3
+torrentmap.com###hd_wrapper > div:nth-child(2)
