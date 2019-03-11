@@ -6,3 +6,7 @@ torrentmap.com###container_wr > div:nth-child(5)
 torrentmap.com###hd_pops_1
 cooln.kr###logo_top3
 torrentmap.com###hd_wrapper > div:nth-child(2)
+torrentmap.com###left_bj > div > img
+windowsforum.kr###sidebar > block.sponser:last-child
+windowsforum.kr###sidebar > div.home_banner:nth-child(5)
+windowsforum.kr###sidebar > block.adsense:last-child
