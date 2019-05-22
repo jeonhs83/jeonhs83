@@ -10,3 +10,4 @@ torrentmap.com###left_bj > div > img
 windowsforum.kr###sidebar > block.sponser:last-child
 windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
+secure.pmang.com###pmang_login_ad_1
