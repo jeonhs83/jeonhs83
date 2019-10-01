@@ -13,3 +13,4 @@ torrentbe.net###container_wr > div.banner:nth-child(3)
 torrentbe.net###banner_right_list_wrap
 torrentbe.net###container > div.banner:last-child
 torrentbe.net###gnb > div:last-child > div > div:last-child
+=-
