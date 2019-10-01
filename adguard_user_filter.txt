@@ -1,14 +1,14 @@
 daum.net###mArticle > div.wing_tmp:last-child
 naver.com###shp_cst
 daum.net###mArticle > div.wing_tmp:last-child
-torrentmap.com###ad_board
-torrentmap.com###container_wr > div:nth-child(5)
-torrentmap.com###hd_pops_1
 cooln.kr###logo_top3
-torrentmap.com###hd_wrapper > div:nth-child(2)
-torrentmap.com###left_bj > div > img
 windowsforum.kr###sidebar > block.sponser:last-child
 windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 kbtuf.com##div.ez_body:nth-child(2) > div.ez_content:nth-child(3) > div.central_page:last-child > div.lnb:first-child > div.section:last-child
+torrentbe.net###banner_top_list_wrap
+torrentbe.net###hd_wrapper > div.banner:last-child
+torrentbe.net###container_wr > div.banner:nth-child(3)
+torrentbe.net###banner_right_list_wrap
+torrentbe.net###container > div.banner:last-child
