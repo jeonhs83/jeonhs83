@@ -7,10 +7,10 @@ windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 kbtuf.com##div.ez_body:nth-child(2) > div.ez_content:nth-child(3) > div.central_page:last-child > div.lnb:first-child > div.section:last-child
-torrentbe.net###banner_top_list_wrap
-torrentbe.net###hd_wrapper > div.banner:last-child
-torrentbe.net###container_wr > div.banner:nth-child(3)
-torrentbe.net###banner_right_list_wrap
-torrentbe.net###container > div.banner:last-child
-torrentbe.net###gnb > div:last-child > div > div:last-child
+torrentbie.com###banner_top_list_wrap
+torrentbie.com###hd_wrapper > div.banner:last-child
+torrentbie.com###container_wr > div.banner:nth-child(3)
+torrentbie.com###banner_right_list_wrap
+torrentbie.com###container > div.banner:last-child
+torrentbie.com###gnb > div:last-child > div > div:last-child
 tera.nexon.com##div.gnbWrapper:nth-child(2)
