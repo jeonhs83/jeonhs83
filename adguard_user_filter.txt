@@ -16,3 +16,8 @@ torrentbie.com###gnb > div:last-child > div > div:last-child
 tera.nexon.com##div.gnbWrapper:nth-child(2)
 torrentbie.com###bo_v_file > ul.banner:first-child
 torrentbie.com###bo_v_file > ul.banner:last-child > li
+torrentbie.com###gnb_1dul > li.gnb_1dli:nth-child(2)
+torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
+torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
+torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
+torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
