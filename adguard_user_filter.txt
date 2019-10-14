@@ -21,3 +21,4 @@ torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
 torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
 torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
 torrentbie.com###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
+torrentbie.com###hd_pops_5
