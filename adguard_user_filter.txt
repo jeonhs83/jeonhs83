@@ -22,3 +22,4 @@ torrentp.com###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
 torrentp.com###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
 torrentp.com###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
 torrentp.com###hd_pops_5
+torrentp.com###container > div.banner:first-child
