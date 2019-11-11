@@ -7,19 +7,19 @@ windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 kbtuf.com##div.ez_body:nth-child(2) > div.ez_content:nth-child(3) > div.central_page:last-child > div.lnb:first-child > div.section:last-child
-torrentp.net###banner_top_list_wrap
-torrentp.net###hd_wrapper > div.banner:last-child
-torrentp.net###container_wr > div.banner:nth-child(3)
-torrentp.net###banner_right_list_wrap
-torrentp.net###container > div.banner:last-child
-torrentp.net###gnb > div:last-child > div > div:last-child
+utofile.com###banner_top_list_wrap
+utofile.com###hd_wrapper > div.banner:last-child
+utofile.com###container_wr > div.banner:nth-child(3)
+utofile.com###banner_right_list_wrap
+utofile.com###container > div.banner:last-child
+utofile.com###gnb > div:last-child > div > div:last-child
 tera.nexon.com##div.gnbWrapper:nth-child(2)
-torrentp.net###bo_v_file > ul.banner:first-child
-torrentp.net###bo_v_file > ul.banner:last-child > li
-torrentp.net###gnb_1dul > li.gnb_1dli:nth-child(2)
-torrentp.net###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
-torrentp.net###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
-torrentp.net###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
-torrentp.net###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
-torrentp.net###hd_pops_5
-torrentp.net###container > div.banner:first-child
+utofile.com###bo_v_file > ul.banner:first-child
+utofile.com###bo_v_file > ul.banner:last-child > li
+utofile.com###gnb_1dul > li.gnb_1dli:nth-child(2)
+utofile.com###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
+utofile.com###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
+utofile.com###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
+utofile.com###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
+utofile.com###hd_pops_5
+utofile.com###container > div.banner:first-child
