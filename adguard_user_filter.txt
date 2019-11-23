@@ -23,3 +23,5 @@ utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
 utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
 utofile.net###hd_pops_5
 utofile.net###container > div.banner:first-child
+utofile.net###hd_pops_7
+utofile.net###top_goo
