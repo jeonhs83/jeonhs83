@@ -25,4 +25,9 @@ utofile.me###hd_pops_5
 utofile.me###container > div.banner:first-child
 utofile.me###hd_pops_7
 utofile.me###top_goo
-
+utofile.me###container_wr > div.banner:nth-child(4)
+utofile.me###gris
+utofile.me###logo > div:first-child
+utofile.me###tnb > ul > div:first-child
+utofile.me###gnb_1dul > li.gnb_1dli:nth-child(13)
+utofile.me###gnb_1dul > li.gnb_1dli:last-child
