@@ -7,21 +7,22 @@ windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 kbtuf.com##div.ez_body:nth-child(2) > div.ez_content:nth-child(3) > div.central_page:last-child > div.lnb:first-child > div.section:last-child
-utofile.net###banner_top_list_wrap
-utofile.net###hd_wrapper > div.banner:last-child
-utofile.net###container_wr > div.banner:nth-child(3)
-utofile.net###banner_right_list_wrap
-utofile.net###container > div.banner:last-child
-utofile.net###gnb > div:last-child > div > div:last-child
+utofile.me###banner_top_list_wrap
+utofile.me###hd_wrapper > div.banner:last-child
+utofile.me###container_wr > div.banner:nth-child(3)
+utofile.me###banner_right_list_wrap
+utofile.me###container > div.banner:last-child
+utofile.me###gnb > div:last-child > div > div:last-child
 tera.nexon.com##div.gnbWrapper:nth-child(2)
-utofile.net###bo_v_file > ul.banner:first-child
-utofile.net###bo_v_file > ul.banner:last-child > li
-utofile.net###gnb_1dul > li.gnb_1dli:nth-child(2)
-utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
-utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
-utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
-utofile.net###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
-utofile.net###hd_pops_5
-utofile.net###container > div.banner:first-child
-utofile.net###hd_pops_7
-utofile.net###top_goo
+utofile.me###bo_v_file > ul.banner:first-child
+utofile.me###bo_v_file > ul.banner:last-child > li
+utofile.me###gnb_1dul > li.gnb_1dli:nth-child(2)
+utofile.me###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
+utofile.me###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
+utofile.me###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
+utofile.me###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
+utofile.me###hd_pops_5
+utofile.me###container > div.banner:first-child
+utofile.me###hd_pops_7
+utofile.me###top_goo
+
