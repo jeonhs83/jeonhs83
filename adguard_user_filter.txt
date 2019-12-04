@@ -31,3 +31,4 @@ utofiles.me###logo > div:first-child
 utofiles.me###tnb > ul > div:first-child
 utofiles.me###gnb_1dul > li.gnb_1dli:nth-child(13)
 utofiles.me###gnb_1dul > li.gnb_1dli:last-child
+utofiles.me###container > div.banner:nth-child(2)
