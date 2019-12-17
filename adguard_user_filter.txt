@@ -13,7 +13,6 @@ utofiles.me###container_wr > div.banner:nth-child(3)
 utofiles.me###banner_right_list_wrap
 utofiles.me###container > div.banner:last-child
 utofiles.me###gnb > div:last-child > div > div:last-child
-tera.nexon.com##div.gnbWrapper:nth-child(2)
 utofiles.me###bo_v_file > ul.banner:first-child
 utofiles.me###bo_v_file > ul.banner:last-child > li
 utofiles.me###gnb_1dul > li.gnb_1dli:nth-child(2)
