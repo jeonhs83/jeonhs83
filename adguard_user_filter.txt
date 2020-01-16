@@ -7,27 +7,27 @@ windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 kbtuf.com##div.ez_body:nth-child(2) > div.ez_content:nth-child(3) > div.central_page:last-child > div.lnb:first-child > div.section:last-child
-utofile.co###banner_top_list_wrap
-utofile.co###hd_wrapper > div.banner:last-child
-utofile.co###container_wr > div.banner:nth-child(3)
-utofile.co###banner_right_list_wrap
-utofile.co###container > div.banner:last-child
-utofile.co###gnb > div:last-child > div > div:last-child
-utofile.co###bo_v_file > ul.banner:first-child
-utofile.co###bo_v_file > ul.banner:last-child > li
-utofile.co###gnb_1dul > li.gnb_1dli:nth-child(2)
-utofile.co###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
-utofile.co###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
-utofile.co###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
-utofile.co###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
-utofile.co###hd_pops_5
-utofile.co###container > div.banner:first-child
-utofile.co###hd_pops_7
-utofile.co###top_goo
-utofile.co###container_wr > div.banner:nth-child(4)
-utofile.co###gris
-utofile.co###logo > div:first-child
-utofile.co###tnb > ul > div:first-child
-utofile.co###gnb_1dul > li.gnb_1dli:nth-child(13)
-utofile.co###gnb_1dul > li.gnb_1dli:last-child
-utofile.co###container > div.banner:nth-child(2)
+u-tofiles.com###banner_top_list_wrap
+u-tofiles.com###hd_wrapper > div.banner:last-child
+u-tofiles.com###container_wr > div.banner:nth-child(3)
+u-tofiles.com###banner_right_list_wrap
+u-tofiles.com###container > div.banner:last-child
+u-tofiles.com###gnb > div:last-child > div > div:last-child
+u-tofiles.com###bo_v_file > ul.banner:first-child
+u-tofiles.com###bo_v_file > ul.banner:last-child > li
+u-tofiles.com###gnb_1dul > li.gnb_1dli:nth-child(2)
+u-tofiles.com###gnb_1dul > li.gnb_1dli.banner:nth-child(12)
+u-tofiles.com###gnb_1dul > li.gnb_1dli.banner:nth-child(13)
+u-tofiles.com###gnb_1dul > li.gnb_1dli.banner:nth-child(14)
+u-tofiles.com###gnb_1dul > li.gnb_1dli.banner:nth-child(15)
+u-tofiles.com###hd_pops_5
+u-tofiles.com###container > div.banner:first-child
+u-tofiles.com###hd_pops_7
+u-tofiles.com###top_goo
+u-tofiles.com###container_wr > div.banner:nth-child(4)
+u-tofiles.com###gris
+u-tofiles.com###logo > div:first-child
+u-tofiles.com###tnb > ul > div:first-child
+u-tofiles.com###gnb_1dul > li.gnb_1dli:nth-child(13)
+u-tofiles.com###gnb_1dul > li.gnb_1dli:last-child
+u-tofiles.com###container > div.banner:nth-child(2)
