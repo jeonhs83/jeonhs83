@@ -31,3 +31,4 @@ u-tofiles.com###tnb > ul > div:first-child
 u-tofiles.com###gnb_1dul > li.gnb_1dli:nth-child(13)
 u-tofiles.com###gnb_1dul > li.gnb_1dli:last-child
 u-tofiles.com###container > div.banner:nth-child(2)
+torrentwork.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > div.top_banner.view_banner:first-child
