@@ -31,8 +31,8 @@ u-tofiles.com###tnb > ul > div:first-child
 u-tofiles.com###gnb_1dul > li.gnb_1dli:nth-child(13)
 u-tofiles.com###gnb_1dul > li.gnb_1dli:last-child
 u-tofiles.com###container > div.banner:nth-child(2)
-torrentwork.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > div.top_banner.view_banner:first-child
-torrentvery.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > div.top_banner.view_banner:first-child
-torrentwork.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > section.view_banner:first-child
-torrentwork.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox > div.left_banner.clearfix:first-child
-torrentwork.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox-sub > div.left_banner.clearfix:first-child
+torrentwork2.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > div.top_banner.view_banner:first-child
+torrentvery2.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > div.top_banner.view_banner:first-child
+torrentwork2.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > section.view_banner:first-child
+torrentwork2.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox > div.left_banner.clearfix:first-child
+torrentwork2.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox-sub > div.left_banner.clearfix:first-child
