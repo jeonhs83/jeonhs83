@@ -9,3 +9,6 @@ secure.pmang.com###pmang_login_ad_1
 torrentonly.com###bg-content > div.row.mrow > div.col-md-9.col-md-pull-0.m-col-mb-9:first-child > section.view_bimg:first-child
 torrentonly.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox-sub > div.left_bimg.clearfix:first-child
 torrentonly.com###bg-content > div.row.mrow > div.col-md-3.col-md-push-0.m-col-mb-3:last-child > div.idx-sidebox > div.left_bimg.clearfix:first-child > div.fleft > div > a
+watchfreejavonline.co###custom_html-19
+watchfreejavonline.co###block-2
+watchfreejavonline.co###custom_html-18
