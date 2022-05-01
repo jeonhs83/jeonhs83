@@ -9,3 +9,5 @@ secure.pmang.com###pmang_login_ad_1
 watchfreejavonline.co###custom_html-19
 watchfreejavonline.co###block-2
 watchfreejavonline.co###custom_html-18
+watchfreejavonline.co###custom_html-28
+watchfreejavonline.co###custom_html-27
