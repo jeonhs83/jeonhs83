@@ -6,8 +6,4 @@ windowsforum.kr###sidebar > block.sponser:last-child
 windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
-watchfreejavonline.co###custom_html-19
-watchfreejavonline.co###block-2
-watchfreejavonline.co###custom_html-18
-watchfreejavonline.co###custom_html-28
-watchfreejavonline.co###custom_html-27
+web.humoruniv.com###wrap_cnts > div:nth-child(7)
