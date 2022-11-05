@@ -7,3 +7,4 @@ windowsforum.kr###sidebar > div.home_banner:nth-child(5)
 windowsforum.kr###sidebar > block.adsense:last-child
 secure.pmang.com###pmang_login_ad_1
 web.humoruniv.com###wrap_cnts > div:nth-child(7)
+@@||i0.wp.com/watchfreejavonline.co/wp-content/$domain=watchfreejavonline.co
