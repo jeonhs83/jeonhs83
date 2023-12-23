@@ -9,3 +9,4 @@ secure.pmang.com###pmang_login_ad_1
 web.humoruniv.com###wrap_cnts > div:nth-child(7)
 @@||i0.wp.com/watchfreejavonline.co/wp-content/$domain=watchfreejavonline.co
 web.humoruniv.com###wrap_cnts > div:nth-child(8)
+web.humoruniv.com###wrap_ctgr > div:last-child
